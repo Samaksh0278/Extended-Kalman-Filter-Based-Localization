@@ -10,3 +10,5 @@ Calculate it's current location at any given moment with the help of a Kalman fi
 Traverse to any coordinate in the plane provided the distance between any two consecutive coordinates is slightly larger than the length of the robot.
 
 Check whether it has reached a point, iterate to the next waypoint, calculate odometry and inertial values and can be coded to move at different speeds.
+
+Further details regarding the working and developement of the model can be found in the project report uploaded to the repository.
